@@ -11,3 +11,8 @@
 * default display is current year +- 10 years
   * Can set 1850 or a specific date as the default year
 * option to select a specific date (hijri or gregorian)
+
+## References
+* "Islamic-Western Calendar Converter; Based on the Arithmetical or Tabular Calendar" https://webspace.science.uu.nl/~gent0113/islam/islam_tabcal.htm
+* "A Jalaali (Jalali, Persian, Khorshidi, Shamsi) calendar system plugin for moment.js" - https://github.com/jalaali/moment-jalaali
+* "A Hijri (Based on Umm al-Qura calculations) calendar system plugin for moment.js" - https://github.com/xsoh/moment-hijri
