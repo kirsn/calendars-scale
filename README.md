@@ -4,6 +4,9 @@
 * Build this using Javascript, and make this available for use on mobile, desktop, and other devices.
 * Shouldn't need an internet connection to work with the scale.
 
+This was triggered by this DIY scale created on a piece of cardboard
+![Image](hijri-calendar-scale.jpg)
+
 ## Features that could be helpful
 * Maybe a zoom facility would be great. With increasing levels of granularity
   * zooming in from years -> months -> days
